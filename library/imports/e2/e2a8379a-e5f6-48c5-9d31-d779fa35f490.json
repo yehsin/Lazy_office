@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "VApp_Normal",
+    "texture": "96e9a2c0-46b5-490b-b260-c059e553da21",
+    "atlas": "",
+    "rect": [
+      20,
+      15,
+      299,
+      298
+    ],
+    "offset": [
+      1,
+      2.5
+    ],
+    "originalSize": [
+      337,
+      333
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

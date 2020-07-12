@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dinosour_jump",
+    "texture": "b794a9dc-04af-4cc9-a3af-7bc801ddfd48",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      61
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

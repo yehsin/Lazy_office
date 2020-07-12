@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "dinosour.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "background": {
+      "__uuid__": "21965262-1506-425b-94ac-d0ebbe10f0d3"
+    },
+    "catus": {
+      "__uuid__": "6bcaff79-8b38-4f03-afab-fa849884e6f4"
+    },
+    "dinasour_1": {
+      "__uuid__": "3c1e771c-ca16-443a-87c4-8a50b9af0c02"
+    },
+    "dinosoour1": {
+      "__uuid__": "08ec507d-3057-4374-a256-257efa846df4"
+    },
+    "dinosour2": {
+      "__uuid__": "dc7a5a3d-2512-434b-ab5e-20134fc26cb5"
+    },
+    "dinosour3": {
+      "__uuid__": "96a7f8c3-fc6f-42ae-8fe5-575fc32fa5be"
+    },
+    "dinosour_jump": {
+      "__uuid__": "76a01839-d26b-48bc-adc4-4ea7c3afbad6"
+    },
+    "dinsour4": {
+      "__uuid__": "f3f9880c-4ff0-47f0-84b8-35d812e48f30"
+    }
+  }
+}

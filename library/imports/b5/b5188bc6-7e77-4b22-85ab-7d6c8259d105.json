@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "audio_speakers_PNG11159",
+    "texture": "722f98a1-47e4-470e-8334-0f918966c287",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      400,
+      261
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      400,
+      261
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

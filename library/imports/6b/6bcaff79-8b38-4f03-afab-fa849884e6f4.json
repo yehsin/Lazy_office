@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "catus",
+    "texture": "d5b57302-a487-4919-9702-27f003e85b2a",
+    "atlas": "90361882-7d68-4279-8907-fe7e44106090",
+    "rect": [
+      1519,
+      0,
+      37,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      37,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

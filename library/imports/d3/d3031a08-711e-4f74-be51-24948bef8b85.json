@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "packman",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.35,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "f2dbc37e-c783-4118-aa97-2d9e513f27d2"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "c75897f7-2294-4e79-85cc-f273462cbc3b"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "c0c98d0a-d7a4-4f8f-9680-a91ef8939798"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "8199d55f-95a0-4278-ba03-87a5cbc6febb"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "18ef9565-a19e-40c7-815b-6c19b93c6d16"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "WApp_Pressed",
+    "texture": "9ad09b8f-a0ed-4fd6-9d36-c64e3fbc5967",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      401,
+      371
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      401,
+      371
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "angry2",
+    "texture": "b632737a-a1a0-4c59-a6cd-62159cf371f7",
+    "atlas": "",
+    "rect": [
+      2,
+      4,
+      40,
+      37
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      43,
+      45
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "windows_Start",
+    "texture": "d1ba5aca-1fa9-400b-af15-0cbe6a0f9871",
+    "atlas": "",
+    "rect": [
+      57,
+      57,
+      398,
+      398
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

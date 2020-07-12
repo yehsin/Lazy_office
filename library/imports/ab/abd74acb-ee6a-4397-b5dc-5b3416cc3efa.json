@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wood-cup-camera-desk-158286",
+    "texture": "0b21274d-c4a7-4d52-966c-4b7611061a0d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      5760,
+      3840
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      5760,
+      3840
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

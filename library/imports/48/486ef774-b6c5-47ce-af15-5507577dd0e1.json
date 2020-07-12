@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CACTUS4",
+    "texture": "62b2157d-447a-4d21-92a7-d4fcce74b19b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      24,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      24,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "White_color_Page",
+    "texture": "ab13ca19-5f3c-4c65-beab-4038e5309109",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2448,
+      3264
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2448,
+      3264
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

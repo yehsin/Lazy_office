@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "WApp_Hovered",
+    "texture": "bfd0701a-f8b5-498c-bec1-54d834645c8e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      401,
+      371
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      401,
+      371
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

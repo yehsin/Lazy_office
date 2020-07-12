@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "potato_chips_PNG79",
+    "texture": "237fcd25-8aa8-450d-8d9e-d78072b21237",
+    "atlas": "",
+    "rect": [
+      69,
+      51,
+      858,
+      1250
+    ],
+    "offset": [
+      -2,
+      -0.5
+    ],
+    "originalSize": [
+      1000,
+      1351
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

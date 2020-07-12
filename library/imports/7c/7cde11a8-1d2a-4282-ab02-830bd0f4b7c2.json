@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DApp_Hover",
+    "texture": "fa52e62c-7093-4ed2-85d8-67ea631e13b6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      375,
+      349
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      375,
+      349
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

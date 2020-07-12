@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_ghost_pink_1",
+    "texture": "8c83d662-16a7-4f0d-a890-4d116e950fb2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      32,
+      31
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      32,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

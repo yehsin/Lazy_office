@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "silver-laptop-beside-analog-camera-and-camera-lens-3759108",
+    "texture": "6a5056cd-1154-4a5f-afe5-b2412f85b107",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      7200,
+      3580
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      7200,
+      3580
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

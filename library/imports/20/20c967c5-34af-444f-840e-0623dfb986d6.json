@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_ghost_red_0",
+    "texture": "8fc602d7-bef9-42e5-b771-1cc64a298f8b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      32,
+      31
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      32,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

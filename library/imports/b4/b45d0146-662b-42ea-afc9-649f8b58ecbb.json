@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "needle",
+    "texture": "a4bf6715-b707-4a91-ab6b-e54b6463e545",
+    "atlas": "",
+    "rect": [
+      636,
+      173,
+      14,
+      260
+    ],
+    "offset": [
+      -32,
+      11.5
+    ],
+    "originalSize": [
+      1350,
+      629
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

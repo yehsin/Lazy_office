@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tee",
+    "texture": "70835dbf-47bb-4aa7-bae1-89c03171e631",
+    "atlas": "",
+    "rect": [
+      60,
+      45,
+      398,
+      926
+    ],
+    "offset": [
+      -11,
+      1
+    ],
+    "originalSize": [
+      540,
+      1018
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

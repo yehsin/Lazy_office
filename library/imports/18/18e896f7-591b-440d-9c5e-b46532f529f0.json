@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "1x-obstacle-large (1)",
+    "texture": "f99c299c-f2e3-4eb3-8e27-f52dcad608ed",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      150,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      150,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

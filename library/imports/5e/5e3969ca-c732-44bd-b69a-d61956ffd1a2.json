@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dinosour2",
+    "texture": "9ad853ee-849c-44bf-b86a-15d16959ec25",
+    "atlas": "",
+    "rect": [
+      13,
+      17,
+      53,
+      57
+    ],
+    "offset": [
+      1,
+      -8.5
+    ],
+    "originalSize": [
+      77,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

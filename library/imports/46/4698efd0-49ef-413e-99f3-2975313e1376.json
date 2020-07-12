@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "VApp_Pressed",
+    "texture": "65dbe3e2-ecbf-49ea-9599-aeeff0106d76",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      337,
+      333
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      337,
+      333
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

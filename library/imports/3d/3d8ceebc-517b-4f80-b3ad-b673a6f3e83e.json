@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "walkBack1",
+    "texture": "044c5e18-cf6b-4420-9d6c-16c1838d1146",
+    "atlas": "",
+    "rect": [
+      1,
+      5,
+      36,
+      37
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      37,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

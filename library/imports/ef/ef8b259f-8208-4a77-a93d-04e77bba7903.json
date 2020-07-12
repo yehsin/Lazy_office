@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "starbucks3",
+    "texture": "cf4c51b2-a1fd-4908-9306-f7aec254d26a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      900,
+      960
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      900,
+      960
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

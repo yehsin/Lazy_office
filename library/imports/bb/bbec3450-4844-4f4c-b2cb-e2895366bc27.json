@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DApp_Normal",
+    "texture": "48d7706a-c1a0-49c4-a5ad-82a2a10c30c8",
+    "atlas": "",
+    "rect": [
+      49,
+      26,
+      284,
+      305
+    ],
+    "offset": [
+      6,
+      -5.5
+    ],
+    "originalSize": [
+      370,
+      346
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pac_man_0",
+    "texture": "94e62653-1162-4a9b-8133-44df98535b9b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      29,
+      32
+    ],
+    "offset": [
+      -1.5,
+      0
+    ],
+    "originalSize": [
+      32,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

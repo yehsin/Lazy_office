@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spr_pacdeath_1",
+    "texture": "9a675270-082e-41c0-9b37-415d67993f05",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      16,
+      32
+    ],
+    "offset": [
+      -8,
+      0
+    ],
+    "originalSize": [
+      32,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

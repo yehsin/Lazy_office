@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DApp_Pressed",
+    "texture": "707a1bf3-529b-4d5b-b2e0-407bfbaa7c67",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      375,
+      349
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      375,
+      349
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "angry",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.0333333333333334,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9377ac25-30ce-4b07-a480-9016c29f67bb"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "2df70fd4-e318-4085-96c0-27067b47c590"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "9377ac25-30ce-4b07-a480-9016c29f67bb"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "2df70fd4-e318-4085-96c0-27067b47c590"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

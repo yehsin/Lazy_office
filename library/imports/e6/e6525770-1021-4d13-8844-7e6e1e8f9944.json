@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "VApp_Hovered",
+    "texture": "f6307c90-7d8b-4e92-9e7c-e78d999f9da9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      337,
+      333
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      337,
+      333
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

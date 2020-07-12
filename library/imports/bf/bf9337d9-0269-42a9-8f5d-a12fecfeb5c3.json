@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "keyNhand",
+    "texture": "e8804dd6-539d-4874-bddb-792e52e2fde4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      480,
+      205
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      480,
+      205
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

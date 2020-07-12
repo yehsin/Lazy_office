@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "WApp_Normal",
+    "texture": "2f7e5eea-bbd1-4a95-812a-935438ac8c83",
+    "atlas": "",
+    "rect": [
+      39,
+      36,
+      316,
+      298
+    ],
+    "offset": [
+      -3.5,
+      0.5
+    ],
+    "originalSize": [
+      401,
+      371
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
